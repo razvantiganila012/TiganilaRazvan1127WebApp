@@ -1,0 +1,17 @@
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\TiganilaRazvanWebbApp.Services.deps.json
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\TiganilaRazvanWebbApp.Services.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\ref\TiganilaRazvanWebbApp.Services.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\TiganilaRazvanWebbApp.Services.pdb
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\TiganilaRazvanWebApp.DataAcces.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\TiganilaRazvanWebApp.Models.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\TiganilaRazvanWebApp.DataAcces.pdb
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\bin\Debug\net5.0\TiganilaRazvanWebApp.Models.pdb
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.csproj.AssemblyReference.cache
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.AssemblyInfoInputs.cache
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.AssemblyInfo.cs
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.csproj.CopyComplete
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\ref\TiganilaRazvanWebbApp.Services.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebbApp.Services\obj\Debug\net5.0\TiganilaRazvanWebbApp.Services.pdb

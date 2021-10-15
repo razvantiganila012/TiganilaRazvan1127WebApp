@@ -1,0 +1,71 @@
+﻿@model ProductTypeVM
+
+@{
+
+    string action = "";
+    var isNew = (bool)ViewBag.IsNew;
+    if (isNew)
+        action = "/ProductType/New";
+    else
+        action = string.Format("/ProductType/Edit/{0}", Model.Id);
+
+
+}
+
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10 table-round bg-light shadow">
+
+        <br />
+        <h4> Product type </h4>
+        <br />
+
+        <div class="col-xl-12">
+
+            <input asp-for="Id" hidden />
+
+            <form action="@action" method="post">
+
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <br />
+                <div class="row">
+
+                    <div class="col-sm-12 col-lg-6">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-4">
+                                <label asp-for="Name" class="control-label font-weight-bold"></label>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <input asp-for="Name" class="form-control" /><br />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-4">
+                                <label asp-for="Country" class="control-label font-weight-bold"></label>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <input asp-for="Country" class="form-control" /><br />
+                                <span asp-validation-for="Country" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-4">
+                                <label asp-for="DescriptionProd" class="control-label font-weight-bold"></label>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <input asp-for="DescriptionProd" class="form-control" /><br />
+                                <span asp-validation-for="DescriptionProd" class="text-danger"></span>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    @await Html.PartialAsync(@"_CancelSaveBtn.cshtml")
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+</div>

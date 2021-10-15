@@ -1,0 +1,15 @@
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\bin\Debug\net5.0\TiganilaRazvanWebApp.Models.deps.json
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\bin\Debug\net5.0\TiganilaRazvanWebApp.Models.runtimeconfig.json
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\bin\Debug\net5.0\TiganilaRazvanWebApp.Models.runtimeconfig.dev.json
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\bin\Debug\net5.0\TiganilaRazvanWebApp.Models.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\bin\Debug\net5.0\ref\TiganilaRazvanWebApp.Models.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\bin\Debug\net5.0\TiganilaRazvanWebApp.Models.pdb
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.csproj.AssemblyReference.cache
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.AssemblyInfo.cs
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\ref\TiganilaRazvanWebApp.Models.dll
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.pdb
+C:\Users\razva\source\repos\TiganilaRazvanWebApp.web\TiganilaRazvanWebApp.Models\obj\Debug\net5.0\TiganilaRazvanWebApp.Models.genruntimeconfig.cache
